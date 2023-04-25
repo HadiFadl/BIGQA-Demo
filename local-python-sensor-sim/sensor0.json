@@ -1,0 +1,7 @@
+{"measurement_time":"8/1/2015","dose_rate":53,"temperature":25.5,"rain":0,"external_battery":6272,"internal_battery":1,"sensor_id":1}
+{"measurement_time":"8/1/2015 1:00","dose_rate":53,"temperature":25.5,"rain":0,"external_battery":6272,"internal_battery":1,"sensor_id":1}
+{"measurement_time":"8/1/2015 2:00","dose_rate":52.9,"temperature":25,"rain":0,"external_battery":6272,"internal_battery":-1,"sensor_id":1}
+{"measurement_time":"8/1/2015 3:00","dose_rate":50.3,"temperature":25,"rain":0,"external_battery":6272,"internal_battery":-1,"sensor_id":1}
+{"measurement_time":"8/1/2015 4:00","dose_rate":54,"temperature":25,"rain":0,"external_battery":6272,"internal_battery":-1,"sensor_id":1}
+{"measurement_time":"8/1/2015 5:00","dose_rate":51,"temperature":25,"rain":0,"external_battery":6272,"internal_battery":-1,"sensor_id":1}
+{"measurement_time":"8/1/2015 6:00","dose_rate":52.5,"temperature":26,"rain":0,"external_battery":6352,"internal_battery":-1,"sensor_id":1}

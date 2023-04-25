@@ -1,0 +1,14 @@
+{
+  "type": "record",
+  "name": "Sensor",
+  "namespace": "com.example",
+  "fields": [
+    { "name": "measurement_time", "type": "string" },
+    { "name": "dose_rate", "type": "double" },
+    { "name": "temperature", "type": "double" },
+    { "name": "rain", "type": "double" },
+    { "name": "external_battery", "type": "double" },
+    { "name": "internal_battery", "type": "double" },
+    { "name": "sensor_id", "type": "long" }
+  ]
+}
